@@ -1,0 +1,185 @@
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\appsettings.json
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.staticwebassets.runtime.json
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.exe
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.deps.json
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.runtimeconfig.json
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.pdb
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.AssemblyReference.cache
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfoInputs.cache
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfo.cs
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.CoreCompileInputs.cache
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cache
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cs
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\bundle\Banco Toyko.styles.css
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\projectbundle\Banco Toyko.bundle.scp.css
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\refint\Banco Toyko.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.pdb
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.genruntimeconfig.cache
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\ref\Banco Toyko.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Dapper.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.CopyComplete
+C:\Users\igorv\source\repos\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\Views\Home\_Layout.cshtml.rz.scp.css
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.AssemblyReference.cache
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfoInputs.cache
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfo.cs
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.CoreCompileInputs.cache
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.MvcApplicationPartsAssemblyInfo.cache
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cache
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cs
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\ref\Banco Toyko.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.pdb
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\appsettings.Development.json
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\appsettings.json
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.staticwebassets.runtime.json
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.exe
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.deps.json
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.runtimeconfig.json
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\ref\Banco Toyko.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.pdb
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Dapper.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\System.Data.SqlClient.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\Views\Home\_Layout.cshtml.rz.scp.css
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\bundle\Banco Toyko.styles.css
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\projectbundle\Banco Toyko.bundle.scp.css
+Z:\Ti\igor\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.genruntimeconfig.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\appsettings.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.staticwebassets.runtime.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.exe
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.deps.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.runtimeconfig.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\ref\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Banco Toyko.pdb
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Dapper.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfoInputs.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfo.cs
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.CoreCompileInputs.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cs
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\Views\Home\_Layout.cshtml.rz.scp.css
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\bundle\Banco Toyko.styles.css
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\scopedcss\projectbundle\Banco Toyko.bundle.scp.css
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\ref\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.pdb
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.genruntimeconfig.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco Toyko\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.AssemblyReference.cache
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\appsettings.json
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.staticwebassets.runtime.json
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.exe
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.deps.json
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.runtimeconfig.json
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.pdb
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Dapper.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.AssemblyReference.cache
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfoInputs.cache
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfo.cs
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.CoreCompileInputs.cache
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cache
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cs
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\scopedcss\bundle\Banco Toyko.styles.css
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\scopedcss\projectbundle\Banco Toyko.bundle.scp.css
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.CopyComplete
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\refint\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.pdb
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.genruntimeconfig.cache
+C:\Users\Bk Bank - Bkp 4\OneDrive\Documents\GitHub\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\ref\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\appsettings.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.staticwebassets.runtime.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.exe
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.deps.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.runtimeconfig.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Banco Toyko.pdb
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Dapper.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.AssemblyReference.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfoInputs.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.AssemblyInfo.cs
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.CoreCompileInputs.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.RazorAssemblyInfo.cs
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\scopedcss\bundle\Banco Toyko.styles.css
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\scopedcss\projectbundle\Banco Toyko.bundle.scp.css
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.csproj.CopyComplete
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\refint\Banco Toyko.dll
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.pdb
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\Banco Toyko.genruntimeconfig.cache
+C:\Users\Bk Bank - Bkp 4\Desktop\Banco-Tokyo\Banco Toyko\obj\Debug\net6.0\ref\Banco Toyko.dll

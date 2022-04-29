@@ -1,0 +1,84 @@
+﻿@using Banco_Toyko.Repository.SalodRepository;
+@using Banco_Toyko.Models.Request.RequestSaldo;
+@using Banco_Toyko.Models.Request.RequestCliente;
+@using Banco_Toyko.Repository.ClienteRepository;
+@using Banco_Toyko.Models.Models;
+@using System.Collections;
+@{
+    var Cliente = ClienteLoged.Get();
+
+    var repositorySaldo = new SaldoRepository();
+
+
+    var request = new RequestReadSaldo (Cliente.Identificador);
+
+    var Saldo = repositorySaldo.ReadSaldo(request);
+    var Positivo = repositorySaldo.GastosPositivos(request);
+    var Negativo = repositorySaldo.GastosNegativos(request);
+
+}
+
+<div class="text-center">
+    <h1>Bem Vindo</h1>
+</div>
+<div class="SaldoCamp">
+    <div class="SubSaldoCamp">
+        <div style ="margin-bottom: 30%;">
+            @if (Saldo > 0)
+            {
+                <p style="color: black; text-decoration: underline green; font-size:400%;font-weight: bold; text-align: justify; white-space: nowrap;"> Saldo: @Saldo </p>
+            }
+            else
+            {
+                <p style="color: black; text-decoration: underline red; font-size:400%; font-weight: bold; text-align: justify; white-space: nowrap;"> Saldo: @Saldo </p>
+            }
+        </div>
+        <div>
+            <p style="color: black; text-decoration: underline green; font-size:250%; font-weight: bold; text-align: justify; white-space: nowrap;"> Entrada: @Positivo</p>
+            <p style="color: black; text-decoration: underline red; font-size:250%; font-weight: bold; text-align: justify; white-space: nowrap;"> Saida: @Negativo </p>
+        </div>
+    </div>
+</div>
+<div class="Transferencias">
+    <div class="Tocenter">
+        <div class="form-group">
+            <input autocomplete="off" class="form-control" style="position: absolute; text-align:center; margin-top: 5%; margin-left: 5%; margin-right: 5%; width: 90%"/>
+        </div>
+        <div class="form-group">
+            <input style="margin-top:5%; position: absolute; margin-left: 5%;" type="submit" value="Procurar" class="btn btn-primary"/>
+        </div>  
+    </div>
+</div>
+
+<style>
+    .SaldoCamp{
+        position:absolute;
+        margin-left: -5%;
+        height: 75%;
+        width: 40%;
+        border: none;
+        border-radius: 3%;
+        margin-bottom: 5%;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    }
+    .Transferencias{
+        position:absolute;
+        margin-left: 40%;
+        height: 75%;
+        width: 40%;
+        border: none;
+        border-radius: 3%;
+        margin-bottom: 5%;
+        margin-right: 5%;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    }
+    .SubSaldoCamp{
+        position: absolute;
+        margin-top: 5%;
+        height: 75%;
+        width: 40%;
+        margin-left:10%;
+        border: none;
+        margin-bottom: 5%;
+    }
+</style>

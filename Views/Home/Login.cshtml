@@ -1,0 +1,52 @@
+﻿@model Banco_Toyko.Models.Request.RequestCliente.RequestCreateCliente;
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Banco_Toyko.styles.css" asp-append-version="true" />
+
+@{
+    ViewData["Title"] = "Nihhivhu";
+    Layout = null;
+}
+
+<div class="text-center">
+    <a asp-controller="Home" asp-action="Register">Nao tem uma conta crie uma</a>
+</div>
+<div class="Tocenter">
+    <div class="text-center">
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="Login">
+            
+                    <div asp-validation-summary="All" class="text-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="Nome" class="control-label"></label>
+                        <input asp-for="Nome" autocomplete="off" class="form-control" style="text-align:center;">
+                        <span asp-validation-for="Nome" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Senha" class="control-label"></label>
+                        <input asp-for="Senha" autocomplete="off" class="form-control" style="text-align:center;"/>
+                        <span asp-validation-for="Senha" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input style="margin-top:20px;" type="submit" value="Entrar" class="btn btn-outline-success"/>
+                    </div>
+        
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .Tocenter{
+        position: relative;
+        left: 35%;
+        align-items: center;
+        text-align: center;
+    }
+</style>

@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["title"] = "Sucesso em fazer Login";
+}
+
+<div class="text-center">
+    <h1>Sucesso em realizar o registro da conta</h1>
+    
+    <div class="InputDiv">
+        <div class="inputHome">
+            <a class="InputHomeText" asp-action="Home">Entrar</a>
+        </div>
+    </div>
+
+</div>
+
+
+<style>
+    .InputDiv{
+        position: relative;
+        display: inline-block;
+        border: none;
+        margin-right: 70px;
+        margin-top: 10px;
+        width:200px;
+
+    }
+    .inputHome{
+        border: none;
+        width:250px;
+        height:250px;
+        margin-right:50px;
+        margin-top: 20px;
+        border-radius: 15%;
+        border: 2px solid blue;
+        background-color: white;
+        color: blue;
+        align-items: center;
+        text-align: center;
+        font-size: 150%;
+        transition: opacity 0.5s;
+    }
+    .InputHomeText{
+        color: black;
+        text-decoration: none;
+    }
+    .InputHomeText:hover{
+        color: blue;
+        text-decoration: underline blue;
+    }
+    .inputHomeImg{
+        width: 80%;
+        height: 80%;
+    }
+</style>
